@@ -2,7 +2,7 @@
 
 Online store built in the MVC paradigm
 
-# Learning Experience
+## Learning Experience
 
 - Applied the Model-View-Controller (MVC) architecture: By structuring my application according to the MVC design pattern, I separated the concerns of data management, user interface, and business logic, leading to a more organized and maintainable codebase.
 - Leveraged JavaFX for the user interface: Utilizing JavaFX allowed me to create a visually appealing and interactive user interface, enhancing the overall user experience of the electronic store.
