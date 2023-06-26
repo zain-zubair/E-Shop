@@ -1,4 +1,4 @@
-# E-Shop
+# E-Store
 
 Online store built in the MVC paradigm
 
